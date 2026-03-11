@@ -1,0 +1,12 @@
+SmartContactManager
+│
+├── app.py
+├── templates
+│   ├── index.html
+│   ├── add_contact.html
+│   └── view_contacts.html
+│
+├── static
+│   └── style.css
+│
+└── database.db
